@@ -1,1 +1,5 @@
-python-3.11
+python-chess
+numpy
+python = ">=3.6,<=3.7.16"
+streamlit = ">=1.2.0"
+tensorflow = ">=1.15.4,<2.0"
